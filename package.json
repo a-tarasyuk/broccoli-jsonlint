@@ -1,0 +1,30 @@
+{
+  "name": "broccoli-jsonlint",
+  "version": "0.0.1",
+  "description": "Plugin for validate JSON files",
+  "main": "index.js",
+  "author": {
+    "name": "Alexander Tarasyuk",
+    "email": "alexander.v.tarasyuk@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a-tarasyuk/broccoli-jsonlint"
+  },
+  "dependencies": {
+    "jsonlint": "^1.6.0",
+    "broccoli-filter": "^0.1.6",
+    "colors": "^0.6.2"
+  },
+  "keywords": [
+    "broccoli-plugin",
+    "jsonlint",
+    "json",
+    "validation"
+  ],
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/a-tarasyuk/broccoli-jsonlint/issues"
+  }
+}
